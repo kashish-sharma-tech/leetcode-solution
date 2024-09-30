@@ -10,8 +10,11 @@ A collection of essential algorithms and data structures implemented in Python, 
 # Features
 
 🚀 Optimized Solutions: Each algorithm and data structure is implemented with a focus on efficiency, both in time and space complexity.
+
 📚 Well-Documented: Code snippets are accompanied by comments and explanations.
+
 🧪 Unit Tests: Each algorithm is tested with multiple test cases to ensure accuracy.
+
 🔍 Time and Space Complexity: Each algorithm includes an analysis of its performance.
 
 # Getting Started
